@@ -5,4 +5,4 @@ Parsing XML document, extracting the data and exporting in TXT file.
 
 TOOLSET:
 
-.Net | C# | XML
+.Net | VB.net | XML
